@@ -24,7 +24,7 @@ Las katas pueden hacerse de distintas maneras para obtener el mismo resultado. A
 
 ❗️❗️El uso de herramientas de IA está permitido pero recuerda que este proyecto está pensado para que afiances tus conocimientos en Python, asegurate de usar estás herramientas con moderación y de que entiendes todos los pasos que has seguido.
 
-Método de entrega
+## Método de entrega
 Tu repositorio tiene que constar, al menos, de los siguientes archivos/carpetas:
 
 ● Comentarios que recojan los pasos seguidos durante el proyecto.
